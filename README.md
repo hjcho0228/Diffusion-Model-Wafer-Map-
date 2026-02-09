@@ -1,12 +1,11 @@
-This is an internship Project which focuses on augmenting data by training a diffusion model.
+This project focuses on data augmentation by training a diffusion model.
 
 How to use:
 
-First, clone the code.
+Clone the repository.
 
-Next, make a 'datasets' directory in the same directory you cloned the code
+In the cloned project directory, create a folder named datasets.
 
-Then, you have to download 'LSWMD.pkl' in the 'datasets' directory in order to proceed.
+Download LSWMD.pkl and place it inside the datasets folder.
 
-You can then start off by preprocessing data via Dat_PreproPforDiff.py.
-
+Run Dat_PreproPforDiff.py to begin preprocessing the data.
